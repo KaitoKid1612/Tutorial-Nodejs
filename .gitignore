@@ -5,3 +5,5 @@ dist
 .vscode
 *.log
 package-lock.json
+.idea
+yarn.lock
